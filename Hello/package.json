@@ -1,0 +1,21 @@
+{
+  "name": "hello-world",
+  "version": "0.1.0",
+  "description": "A Hello World application",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:vgtf/hello-world.git"
+  },
+  "author": "Wilson",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.2.5"
+  }
+}
